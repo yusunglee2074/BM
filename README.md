@@ -1,6 +1,6 @@
 ## Description
 
-웹베이스 빔프로젝트 컨텐츠 마켓 백엔드
+BM backend
 
 ## Prerequisites
 
